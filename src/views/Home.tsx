@@ -10,8 +10,8 @@ const Home = () => {
 
   return (
     <div>
-      <h1>Sequence Kit Starter - React</h1>
-      <h2 className="homepage__marginBtNormal">Embedded Wallet</h2>
+      <h1>Purchasing an NFT using Stripe Payments</h1>
+      <h2 className="homepage__marginBtNormal">Secured by Sequence Protect</h2>
       {isConnected ? <Connected /> : <NotConnected />}
       <footer className="homepage__footer">
         <Text>
