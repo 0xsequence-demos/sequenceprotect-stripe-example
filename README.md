@@ -1,6 +1,6 @@
 # Sequence Kit Embedded Wallet React Starter Boilerplate
 
-Starter Sequence Embedded Wallet boilerplate that uses [Sequence Kit](https://github.com/0xsequence/kit) with React.
+Example implementation of Stripe with Sequence leveraging the Sequence Transactions API and Kit.
 
 ## Quickstart
 
